@@ -1,2 +1,3 @@
-# Sentiment Analysis From Twitter
-![alt text](image.png)
+# Twitter Disaster Detection From Tweets
+
+![alt text](image-1.png)
